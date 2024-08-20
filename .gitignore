@@ -1,0 +1,4 @@
+.vscode
+*.pyc
+penv
+.python-version
